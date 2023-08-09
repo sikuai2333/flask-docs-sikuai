@@ -1,0 +1,14 @@
+# format
+black
+
+# import sorting
+isort
+
+# lint
+flake8
+
+# static check
+mypy
+
+# test
+pytest-cov
